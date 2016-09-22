@@ -90,7 +90,7 @@ class Words {
 //: ### change) the code at the very bottom. Debug the function.
 
 
-//: [While declaring **countLetters** dictionary wasn't initialized properly. ]
+//: [While declaring **countLetters** dictionary wasn't initialized properly. Made the func static by deleting class keyword.]
     
     
 }
